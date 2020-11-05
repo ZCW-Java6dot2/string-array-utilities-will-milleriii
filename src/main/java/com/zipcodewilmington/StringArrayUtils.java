@@ -155,7 +155,8 @@ public class StringArrayUtils {
      * @return array of Strings with each consecutive duplicate occurrence concatenated as a single string in an array of Strings
      */ // TODO
     public static String[] packConsecutiveDuplicates(String[] array) {
-        
+        //still stuck here
+        //will come back after completion of other labs
 
         return null;
     }
